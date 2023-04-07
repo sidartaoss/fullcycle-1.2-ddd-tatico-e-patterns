@@ -14,7 +14,7 @@ Este desafio consiste em:
 
     - _EnviaConsoleLogHandler_. Deverá exibir no console: "Endereco do cliente {_id_}, {_name_} alterado para: {_street_}, {_number_}, {_city_}"
 
-- N.T.: Linguagem de programação para este desafio: _TypeScript_.
+> N.T.: Linguagem de programação para este desafio: _TypeScript_.
 
 ```
 /src/domain/event/@shared/event-dispatcher.spec.ts
